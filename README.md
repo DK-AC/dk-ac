@@ -41,7 +41,7 @@ I'm a front-end developer with experience in creating SPA using React, Redux, Ty
 ![codewars](https://www.codewars.com/users/DK-AC/badges/large)
 
 <hr>
-![Denis GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=DK-AC&show_icons=trueborder_radius=30&border_color=d0eca1&icon_color=d0eca1&hide=cont
+
+![Denis GitHub stats](https://github-readme-stats.vercel.app/api?username=DK-AC&show_icons=true&bg_color=DEG,011805,077517&title_color=d0eca1&text_color=4CAF50&border_radius=30&border_color=d0eca1&icon_color=d0eca1&hide=contribs,prs)
 
 
