@@ -2,7 +2,7 @@
 
 <div>
 <p align="left">
-Frontend developer with experience in <b>React, Redux, JavaScript, TypeScript, CSS, and HTML </b> for building single-page applications with a reliable user interface.
+I'm a front-end developer with experience in creating SPA using React, Redux, TypeScript, JavaScript, CSS, HTML.
 </p>
 </div>
 
